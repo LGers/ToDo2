@@ -1,0 +1,34 @@
+{
+  "tasksState": [
+    {
+      "id": 1,
+      "text": "Doctor Appointment",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Meeting at school",
+      "day": "Feb 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "text": "new Task",
+      "day": "Monday",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "New task not reminder",
+      "day": "Now",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "next Task is Reminder",
+      "day": "next to do",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
